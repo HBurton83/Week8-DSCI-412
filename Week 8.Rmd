@@ -1,0 +1,43 @@
+---
+title: "Week 8"
+author: "H Burton"
+date: '2023-03-08'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Week1**
+a. Evaluating and scoring regression models by analyzing the residuals and plotting.
+b. Choosing ideal models with the lowest variance and lowest .
+
+### **Week2**
+a. Dealing with missing values and evaluating how to handle. This may include trimming rows of data or assigning an average or other meaningful value to fill the missing data, depending on the type of data. 
+b. The importance of normalizing when there are varying scales. 
+
+### **Week3**
+a. Using visuals such as box plots to understand distribution of data prior to modeling.
+b. Splitting data into testing and training datasets using the sample() function. 
+
+### **Week4**
+a. The difference between linear and logistic regression and using a glm
+b. How to use a confusion matrix to evaluate performance. 
+
+### **Week5**
+a. Poisson regression - the discrete probability distribution to get teh probability of a given number of events occurring in a fixed time or space interval. 
+b. Gamma regression - modeling a continuous, responsible variable with a non-negative, skewed-right distribution.
+
+### **Week6**
+a. The similarities and difference between decision trees and random forests.
+b. How to produce a variable importance list for a random forest and how to identify the best numbers of branches for a tree using the prune function. 
+
+### **Week7**
+a. K-means clustering - how to use and how to analyze the results.
+b. Methods to visually plot the results of the cluster. 
+
+### **Week8**
+a. How to create and git hub account
+b. The ways that git hub is used for collaboration and sharing.
+
